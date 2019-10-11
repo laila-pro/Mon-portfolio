@@ -68,6 +68,13 @@ body {
   text-align: left;
   background-color: #fff;
 }
+.apropos{
+  font-size: 25rem !important;
+}
+.rezise-img{
+  height: 400px;
+  width: 400px;
+}
 
 [tabindex="-1"]:focus {
   outline: 0 !important;
@@ -205,10 +212,7 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-.rezise-img{
-  height: 400px;
-  width: 400px;
-}
+
 svg {
   overflow: hidden;
   vertical-align: middle;
